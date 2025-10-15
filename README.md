@@ -66,7 +66,7 @@ python -m data_pairs.precompute_immatch_val_ovs --data_root data/immatch_benchma
 
 ---
 
-## 🏗️ 5. Train Patch2Pix
+## 🏗️ 5. Recreate Patch2Pix and train
 
 Run training using the pretrained NCNet backbone:
 
